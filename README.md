@@ -1,2 +1,2 @@
-## My first Todo app try with Laravel
+## Laravel TODO App
 
